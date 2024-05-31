@@ -1,6 +1,7 @@
-Certainly! Here is a sample README section for your color detection OpenCV repository:
+Hello Everyone I have worked on this project to learn more about digital Image Processing as I had an elective in my college but what they taught us I didn't understand a thing which made it more hard to learn 
+Now here I am learning on youtube google GPT to learn what I should have learnt in the class where I paid fees for
 
----
+This is a basic project but a great start I f you are looking for learning juat like me.
 
 # Color Detection using OpenCV
 
