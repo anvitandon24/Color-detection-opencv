@@ -91,11 +91,3 @@ Contributions are welcome! If you have suggestions for improvements or find bugs
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the paths, URLs, and other details to match your actual repository and project specifics.
